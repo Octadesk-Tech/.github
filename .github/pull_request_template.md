@@ -7,31 +7,22 @@ Relates to # (pull request number)
 
 ## Type of change
 
-Please delete options that are not relevant.
+Consult [this](https://www.notion.so/octatech/Conven-o-de-Commits-6e9ddde2c4e44cdc9c50e7a0ef42b18c#b34b7041baa24ed28d422cb20de9e744) readme and set the correspondent label(s) on PR.
 
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
+## Breaking change
 
-# How Has This Been Tested?
+If your fix/feature changed the current expected behavior or the communication with it, explain.
+
+# How has this been tested?
 
 Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration
-
-- [ ] Test A
-- [ ] Test B
-
-**Test Configuration**:
-
-- Hardware:
-- Toolchain:
-- SDK:
 
 # Checklist:
 
 - [ ] My code follows the style guidelines of this project
 - [ ] I have performed a self-review of my own code
-- [ ] I have commented my code, particularly in hard-to-understand areas
 - [ ] My changes generate no new warnings
-- [ ] I have added tests that prove my fix is effective or that my feature works :NERVOSO:
+- [ ] I have added tests that prove my fix is effective or that my feature works
 - [ ] New and existing unit tests pass locally with my changes
 - [ ] Any dependent changes have been merged and published in downstream modules
+- [ ] I have updated [Mapeamento](https://docs.google.com/spreadsheets/d/1i6yP07og51aktbzKs-YVXlsvB1gCGHKPxn06HspTNto) with any new dependency
