@@ -14,6 +14,6 @@ Relacionado # (Fix de algum PR?)
 
 - [ ] O código segue os padrões do projeto;
 - [ ] Todos os testes passaram;
-- [ ] A branch está mesclada com staging
+- [ ] A branch está mesclada com development e staging
 - [ ] Atualizei o README/Base de Conhecimento caso tenha alguma alteração ou adição na regra de negócio
 - [ ] Atualizei o Mapeamento caso tenha alguma nova dependência de serviço ou tecnologia
