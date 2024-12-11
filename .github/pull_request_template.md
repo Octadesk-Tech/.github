@@ -1,28 +1,19 @@
-# Description
+# Descrição
 
-Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change. Add also screenshots here, if apply.
+Descreva quais mudanças foram realizadas, como alterações e adições na regra de negócio, novos arquivos e por que.
 
-Fixes # (issue)
-Relates to # (pull request number)
+Incidente ou Problema # (ID do jira, ticket ou servicenow)
+Relacionado # (Fix de algum PR?)
 
-## Type of change
+# Testes
 
-Consult [this](https://www.notion.so/octatech/Conven-o-de-Commits-6e9ddde2c4e44cdc9c50e7a0ef42b18c#b34b7041baa24ed28d422cb20de9e744) readme and set the correspondent label(s) on PR.
-
-## Breaking change
-
-If your fix/feature changed the current expected behavior or the communication with it, explain.
-
-# How has this been tested?
-
-Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration
+- Descreva quais novos testes foram desenvolvidos no código
+- Descreva como foi realizado os testes da mudança.
 
 # Checklist:
 
-- [ ] My code follows the style guidelines of this project
-- [ ] I have performed a self-review of my own code
-- [ ] My changes generate no new warnings
-- [ ] I have added tests that prove my fix is effective or that my feature works
-- [ ] New and existing unit tests pass locally with my changes
-- [ ] Any dependent changes have been merged and published in downstream modules
-- [ ] I have updated [Mapeamento](https://docs.google.com/spreadsheets/d/1i6yP07og51aktbzKs-YVXlsvB1gCGHKPxn06HspTNto) with any new dependency
+- [ ] O código segue os padrões do projeto;
+- [ ] Todos os testes passaram;
+- [ ] A branch está mesclada com development e staging
+- [ ] Atualizei o README/Base de Conhecimento caso tenha alguma alteração ou adição na regra de negócio
+- [ ] Atualizei o Mapeamento caso tenha alguma nova dependência de serviço ou tecnologia
